@@ -47,24 +47,9 @@
 ###
 
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/guga">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=guga&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31rt3wz7wr5zgf3jfksft4kjp66e?si=964c930e39e34ebc">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rt3wz7wr5zgf3jfksft4kjp66e?si=964c930e39e34ebc&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
-
-<!--
-**Gustavo7456/Gustavo7456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
